@@ -149,11 +149,11 @@ header.subhead .subhead-content {
 
 @media (min-width: 992px) {
   header.subhead {
-    padding-top: calc(10rem + 5px);
+    padding-top: calc(6rem + 5px);
     padding-bottom: 2rem;
   }
   header.subhead .subhead-content .subhead-heading {
-    font-size: 6rem;
+    font-size: 3rem;
   }
   header.subhead .subhead-content .subhead-subheading {
     font-size: 4rem;
