@@ -1,6 +1,10 @@
 import {Link} from 'react-router-dom'
 import BlueBeltSyllabus from './components/BlueBeltSyllabus'
 
+const listStyle = {
+    marginTop: '20px'
+};
+
 function Syllabus() {
     return (
       <>
@@ -14,11 +18,11 @@ function Syllabus() {
             </div>
         </header>
 
-        <ul class="nav nav-pills nav-justified" role="tablist">
+        <ul style={listStyle} class="nav nav-pills nav-justified" role="tablist">
             <li class="nav-item"><a class="nav-link active" data-toggle="pill" href="#blue">Blue</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="pill" href="#purple">Purple</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="pill" href="#brown">Brown</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="pill" href="#black">Black</a></li>
+            <li class="nav-item"><a style={{backgroundColor: 'purple', color: 'white'}} class="nav-link" data-toggle="pill" href="#purple">Purple</a></li>
+            <li class="nav-item"><a style={{backgroundColor: 'brown', color: 'white'}} class="nav-link" data-toggle="pill" href="#brown">Brown</a></li>
+            <li class="nav-item"><a style={{backgroundColor: 'black', color: 'white'}} class="nav-link" data-toggle="pill" href="#black">Black</a></li>
         </ul>
 
         <div class="tab-content">
