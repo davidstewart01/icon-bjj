@@ -1,17 +1,19 @@
-import Header from './pages/Header';
-import Footer from './pages/Footer';
-import Home from './pages/Home';
+// import Header from './pages/components/Header';
+// import Footer from './pages/components/Footer';
+// import Home from './pages/Home';
 
-function App() {
-  return (
-    <div>
-      <Header />
 
-      <Home />
 
-      <Footer />
-    </div>
-  );
-}
+// function App() {
+//   return (
+//     <div>
+//       <Header />
 
-export default App;
+//       <Home />
+
+//       <Footer />
+//     </div>
+//   );
+// }
+
+// export default App;

@@ -1,7 +1,17 @@
+import {Link} from 'react-router-dom'
 
 function Home() {
   return (
     <>
+    <header className="masthead text-center text-white">
+        <div className="masthead-content">
+          <div className="container">
+            <h1 className="masthead-heading mb-0">Icon BJJ Belfast</h1>
+            <h2 className="masthead-subheading mb-0">Resources</h2>
+            <Link to="/syllabus" className="btn btn-primary btn-xl rounded-pill mt-5">Syllabus</Link>
+          </div>
+        </div>
+      </header>
       <section>
         <div className="container">
           <div className="row align-items-center">

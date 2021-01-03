@@ -1,5 +1,5 @@
 
-function Footer() {
+const Footer = () => {
   return (
     <>
      <footer className="py-5 bg-black">

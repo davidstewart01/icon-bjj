@@ -127,6 +127,40 @@ header.masthead .bg-circle-4 {
   }
 }
 
+
+
+
+header.subhead {
+  position: relative;
+  overflow: hidden;
+  padding-top: calc(7rem + 5px);
+  padding-bottom: 2rem;
+  background: linear-gradient(0deg, #ff6a00 0%, #1d1d1f 100%);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+header.subhead .subhead-content {
+  z-index: 1;
+  position: relative;
+}
+
+@media (min-width: 992px) {
+  header.subhead {
+    padding-top: calc(10rem + 5px);
+    padding-bottom: 2rem;
+  }
+  header.subhead .subhead-content .subhead-heading {
+    font-size: 6rem;
+  }
+  header.subhead .subhead-content .subhead-subheading {
+    font-size: 4rem;
+  }
+}
+
+
 .bg-primary {
   background-color: #ee0979 !important;
 }
