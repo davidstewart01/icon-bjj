@@ -6,6 +6,15 @@ import BackRoll from './blue-belt/BackRoll';
 import SideBreakFall from './blue-belt/SideBreakFall';
 import HipEscape from "./blue-belt/HipEscape";
 import HipEscapeToTurtle from "./blue-belt/HipEscapeToTurtle";
+import PullClosedGuard from "./blue-belt/PullClosedGuard";
+import PullOpenGuard from "./blue-belt/PullOpenGuard";
+import CrossChokeInClosedGuard from "./blue-belt/CrossChokeInClosedGuard";
+import KimuraInGuard from "./blue-belt/KimuraInGuard";
+import KimuraInGuardSweep from "./blue-belt/KimuraInGuardSweep";
+import ScissorSweep from "./blue-belt/ScissorSweep";
+import HeelSweep from "./blue-belt/HeelSweep";
+import ClosedGuardStandingSweep from "./blue-belt/ClosedGuardStandingSweep";
+import BalanceSweep from "./blue-belt/BalanceSweep";
 
 const getContent = (name) => {
     switch (name) {
@@ -21,6 +30,24 @@ const getContent = (name) => {
             return <HipEscape />;
         case "Hip Escape to Turtle":
             return <HipEscapeToTurtle />;
+        case "Pull Closed Guard":
+            return <PullClosedGuard />;
+        case "Pull Open Guard":
+            return <PullOpenGuard />;
+        case "Cross Choke in Closed Guard":
+            return <CrossChokeInClosedGuard />;
+        case "Kimura in Guard":
+            return <KimuraInGuard />;
+        case "Kimura in Guard Sweep":
+            return <KimuraInGuardSweep />;
+        case "Scissor Sweep":
+            return <ScissorSweep />;
+        case "Heel Sweep":
+            return <HeelSweep />;
+        case "Closed Guard Standing Sweep":
+            return <ClosedGuardStandingSweep />;
+        case "Balance Sweep":
+            return <BalanceSweep />;
     }
 }
 

@@ -43,6 +43,42 @@ const BlueBeltSyllabus = () => {
             <td>Hip Escape to Turtle</td>
             <a href="/technique?name=Hip Escape to Turtle" style={techniqueButton} class="btn btn-success" role="button">View Technique</a>
           </tr>
+          <tr>
+            <td>Pull Closed Guard</td>
+            <a href="/technique?name=Pull Closed Guard" style={techniqueButton} class="btn btn-success" role="button">View Technique</a>
+          </tr>
+          <tr>
+            <td>Pull Open Guard</td>
+            <a href="/technique?name=Pull Open Guard" style={techniqueButton} class="btn btn-success" role="button">View Technique</a>
+          </tr>
+          <tr>
+            <td>Cross Choke in Closed Guard</td>
+            <a href="/technique?name=Cross Choke in Closed Guard" style={techniqueButton} class="btn btn-success" role="button">View Technique</a>
+          </tr>
+          <tr>
+            <td>Kimura in Guard</td>
+            <a href="/technique?name=Kimura in Guard" style={techniqueButton} class="btn btn-success" role="button">View Technique</a>
+          </tr>
+          <tr>
+            <td>Kimura in Guard Sweep</td>
+            <a href="/technique?name=Kimura in Guard Sweep" style={techniqueButton} class="btn btn-success" role="button">View Technique</a>
+          </tr>
+          <tr>
+            <td>Scissor Sweep</td>
+            <a href="/technique?name=Scissor Sweep" style={techniqueButton} class="btn btn-success" role="button">View Technique</a>
+          </tr>
+          <tr>
+            <td>Heel Sweep</td>
+            <a href="/technique?name=Heel Sweep" style={techniqueButton} class="btn btn-success" role="button">View Technique</a>
+          </tr>
+          <tr>
+            <td>Closed Guard Standing Sweep</td>
+            <a href="/technique?name=Closed Guard Standing Sweep" style={techniqueButton} class="btn btn-success" role="button">View Technique</a>
+          </tr>
+          <tr>
+            <td>Balance Sweep</td>
+            <a href="/technique?name=Balance Sweep" style={techniqueButton} class="btn btn-success" role="button">View Technique</a>
+          </tr>
         </tbody>
       </table>
     </>
