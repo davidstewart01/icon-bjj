@@ -1,5 +1,5 @@
 import {Link} from 'react-router-dom'
-import BlueBeltSyllabus from './components/BlueBeltSyllabus'
+import SyllabusDetails from './components/SyllabusDetails'
 
 const listStyle = {
     marginTop: '20px'
@@ -26,7 +26,7 @@ function Syllabus() {
         </ul>
 
         <div class="tab-content">
-            <div id="blue" class="tab-pane container active"><BlueBeltSyllabus /></div>
+            <div id="blue" class="tab-pane container active"><SyllabusDetails belt="blue" /></div>
             <div id="purple" class="tab-pane container fade">Purple</div>
             <div id="brown" class="tab-pane container fade">Brown</div>
             <div id="black" class="tab-pane container fade">Black</div>

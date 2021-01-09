@@ -6,7 +6,7 @@ import Header from './pages/components/Header';
 import Footer from './pages/components/Footer';
 import Home from './pages/Home';
 import Syllabus from './pages/Syllabus';
-import Technique from './pages/techniques/Technique';
+import Technique from './pages/Technique';
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 

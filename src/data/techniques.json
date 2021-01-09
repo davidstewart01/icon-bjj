@@ -1,0 +1,313 @@
+ {
+    "blue": {
+        "tie-belt": {
+            "name": "Tie Belt",
+            "break-down": "This is the most common way to tie the belt.",
+            "icon-demo": "0FgmUuiYnfI",
+            "youtube-videos": [
+                "cvPDX8S9ZoY",
+                "SYfRZmltMOc"
+            ],
+            "resources": [
+                "https://bjj-world.com/how-to-tie-a-jiu-jitsu-belt/#:~:text=The%20most%20basic%20manner%20of%20tying%20a%20BJJ,around%2C%20so%20they%20meet%20again%20in%20the%20front."
+            ]
+        },
+        "front-roll": {
+            "name": "Front Roll",
+            "break-down": "This is how to perform a front roll.",
+            "icon-demo": "7KafbTwckLI",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "back-roll": {
+            "name": "Back Roll",
+            "break-down": "This is how to perform a back roll.",
+            "icon-demo": "tngNycd9Qvk",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "side-break-fall": {
+            "name": "Side Break Fall",
+            "break-down": "This is how to perform a side break fall.",
+            "icon-demo": "C2ja-Z4gg-g",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "hip-escape": {
+            "name": "Hip Escape",
+            "break-down": "This is how to perform a hip escape.",
+            "icon-demo": "j2eiqc9qFVQ",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "hip-escape-to-turtle": {
+            "name": "Hip Escape to Turtle",
+            "break-down": "This is how to perform a hip escape to the turtle position.",
+            "icon-demo": "LTMoe1h00hM",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "pull-closed-guard": {
+            "name": "Pull Closed Guard",
+            "break-down": "This is how to pull closed guard.",
+            "icon-demo": "Yj0jKG5scpg",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "pull-open-guard": {
+            "name": "Pull Open Guard",
+            "break-down": "This is how to pull open guard.",
+            "icon-demo": "Q_rnVSJysUA",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "cross-choke-in-closed-guard": {
+            "name": "Cross Choke in Closed Guard",
+            "break-down": "This is how to perform a cross choke from closed guard.",
+            "icon-demo": "lu73AZ8aKOk",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "kimura-in-guard": {
+            "name": "Kimura in Guard",
+            "break-down": "This is how to perform the kimura from guard.",
+            "icon-demo": "TfmizQA3poc",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "kimura-in-guard-sweep": {
+            "name": "Kimura in Guard Sweep",
+            "break-down": "This is how to perform the kimura sweep from guard.",
+            "icon-demo": "7E7YbZhZGaU",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "scissor-sweep": {
+            "name": "Scissor Sweep",
+            "break-down": "This is how to perform the scissor sweep.",
+            "icon-demo": "dhzbrCkHO2k",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "heel sweep": {
+            "name": "Heel Sweep",
+            "break-down": "This is how to perform the heel sweep.",
+            "icon-demo": "61I_USyyqfU",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "closed-guard-standing-sweep": {
+            "name": "Closed Guard Standing Sweep",
+            "break-down": "This is how to perform the closed guard standing sweep.",
+            "icon-demo": "4AEn0Zgr2NI",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "balance-sweep": {
+            "name": "Balance Sweep",
+            "break-down": "This is how to perform the balance sweep.",
+            "icon-demo": "-4UUtDXoodg",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "n": {
+            "name": "",
+            "break-down": "T",
+            "icon-demo": "",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "o": {
+            "name": "",
+            "break-down": "T",
+            "icon-demo": "",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "p": {
+            "name": "",
+            "break-down": "T",
+            "icon-demo": "",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "q": {
+            "name": "",
+            "break-down": "T",
+            "icon-demo": "",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "r": {
+            "name": "",
+            "break-down": "T",
+            "icon-demo": "",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "s": {
+            "name": "",
+            "break-down": "T",
+            "icon-demo": "",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "t": {
+            "name": "",
+            "break-down": "T",
+            "icon-demo": "",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "u": {
+            "name": "",
+            "break-down": "T",
+            "icon-demo": "",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "v": {
+            "name": "",
+            "break-down": "T",
+            "icon-demo": "",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "w": {
+            "name": "",
+            "break-down": "T",
+            "icon-demo": "",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "x": {
+            "name": "",
+            "break-down": "T",
+            "icon-demo": "",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "y": {
+            "name": "",
+            "break-down": "T",
+            "icon-demo": "",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        },
+        "z": {
+            "name": "",
+            "break-down": "T",
+            "icon-demo": "",
+            "youtube-videos": [
+                ""
+            ],
+            "resources": [
+                ""
+            ]
+        }
+    }
+}
